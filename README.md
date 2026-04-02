@@ -26,21 +26,6 @@ It uses **CNN models (InceptionV3 / ResNet50)** with **OpenCV** for real-time de
 
 ---
 
-## Project Structure
-
-```
-project/
-│── dataset/ (small sample only)
-│── models/
-│── src/
-│── detect_mask_video.py
-│── train_model.py
-│── requirements.txt
-│── README.md
-```
-
----
-
 ## Model File
 
 Due to GitHub size limits, the trained model is not included.
