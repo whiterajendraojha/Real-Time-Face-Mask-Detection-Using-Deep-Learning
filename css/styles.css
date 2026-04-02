@@ -1,0 +1,31 @@
+/* Dark Theme with Modern Look */
+body {
+    background: linear-gradient(135deg, #1e1e2f, #121212);
+    color: #e0e0e0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Sidebar Styling */
+.sidebar .sidebar-content {
+    background: #2c2c3e;
+    color: #ffffff;
+    border-right: 2px solid #444;
+}
+
+/* Buttons (if used) */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 16px;
+    border: none;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Clean UI */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
