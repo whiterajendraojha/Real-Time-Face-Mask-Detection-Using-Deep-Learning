@@ -4,7 +4,7 @@
 
 This project is a **Computer Vision based Face Mask Detection System** that detects whether a person is wearing a mask or not in real-time using webcam/video input.
 
-It uses **CNN models (InceptionV3 / ResNet50)** with **OpenCV** for real-time detection.
+It uses **CNN models (ResNet50)** with **OpenCV** for real-time detection.
 
 ---
 
@@ -30,7 +30,7 @@ It uses **CNN models (InceptionV3 / ResNet50)** with **OpenCV** for real-time de
 
 Due to GitHub size limits, the trained model is not included.
 
-Download here: [Add Google Drive Link]
+Download here: https://drive.google.com/file/d/1MznkhSkLNMUftstpv9luvyovH8Ab3NI2/view?usp=sharing
 
 ---
 
