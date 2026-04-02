@@ -50,8 +50,10 @@ python detect_mask_video.py
 
 ---
 
-## Output
+## 📸 Output Screenshots
 
+![Output1](Screenshot%202026-03-31%20101855.png)
+![Output2](Screenshot%202026-03-31%20102952.png)
 * Detects faces
 * Classifies: Mask / No Mask
 * Displays results in real-time
